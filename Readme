@@ -1,0 +1,7 @@
+INTRODUCTION:
+The ESP32 CAM Based Surveillance Robot using Arduino IDE is designed to enhance security through real-time video monitoring and autonomous navigation. By
+integrating the ESP32 CAM module, which combines a microcontroller with a camera, the robot is capable of streaming live video and transmitting it via Wi-Fi
+to remote users. This allows for effective surveillance of areas that are difficult to monitor manually. The system can detect motion and provide instant alerts,
+making it a valuable tool for both security and remote monitoring applications. Future enhancements may include integrating AI for advanced object detection and 
+improving navigation capabilities. This project demonstrates the practical application of ESP32 CAM technology in creating a costeffective and
+versatile surveillance solution.
